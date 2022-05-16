@@ -12,6 +12,7 @@ const me = {
   code: ["C", "Java", "CSS", "HTML", "JavaScript", "NodeJS"],
   tools: ["mysql", "express"],
   frameworks: "vue",
+  Hackatons: "HackTheOcean - LaunchX",
 };
 ```
 
