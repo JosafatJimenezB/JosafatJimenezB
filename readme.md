@@ -1,38 +1,40 @@
-<!-- # console.log('Hello world :wave:')
-
-### Welcome to my profile
-
-<img src="banner.gif" style="width:400px">
-
-## About me :man_technologist:
-
-```javascript
-const me = {
-  name: "Josafat",
-  code: ["Java", "CSS", "HTML", "JavaScript", "NodeJS"],
-  tools: ["mysql", "express"],
-  frameworks: "vue",
-  Hackatons: "HackTheOcean - LaunchX",
-};
-``` -->
-
-
-
-
-<!-- <div style="background-color:#121212"> -->
-<div style="color:#fff">
 
 # Hi ,I Am josafat! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
 
-<img src="banner.gif" style="width: 400px">
+## Computer Systems student :technologist: | Web Developer :computer:
+<!-- <img src="banner.gif" style="width: 400px"> -->
 
 ![](https://komarev.com/ghpvc/?username=josafatjimenezb&color=blue)<br>
 
-### Computer Systems Student<br>
+
+### :scroll: About me
+* :earth_americas: I am from Puebla, México :mexico:.
+* :heart_eyes: I love web development.
+* :school: I am a 5th semester computer systems student.
+* :dart: I am currently focused on learning ReactJS..
 
 
-### 🕵 Take a look at my repositories and let's get in touch!<br>
+
+### :label: Skills
+<p align="left">
+<a>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="36" height="36" alt="Python"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/>
+<img src="https://github.com/Urivan07/skill-icons/blob/main/icons/VueJS-Dark.svg" width="36" height="36" alt="VueJS"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="36" height="36" alt="Java"/>
+<img src="https://github.com/Urivan07/skill-icons/blob/main/icons/MySQL-Dark.svg" width="36" height="36" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" width="36" height="36" alt="Bootstrap"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="36" height="36" alt="Git"/>
+<img src="https://github.com/Urivan07/skill-icons/blob/main/icons/Github-Dark.svg" width="36" height="36" alt="GitHub"/>
+</a>
+</p>
+
+
+
+### 🕵 Social Media<br>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-josafatjimenezb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josafatjimenezb/)](https://www.linkedin.com/in/josafatjimenezb/) 
@@ -53,7 +55,4 @@ const me = {
 </a>
 <br>
 <br><br>
-
-</div>
-</div>
 
