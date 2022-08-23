@@ -1,6 +1,5 @@
 
 # Hi ,I Am josafat! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
-<br>
 
 ## Computer Systems student :technologist: | Web Developer :computer:
 <!-- <img src="banner.gif" style="width: 400px"> -->
