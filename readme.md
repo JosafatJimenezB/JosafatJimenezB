@@ -17,19 +17,19 @@ As a Full Stack Developer , I specialize in both frontend and backend technologi
 * **:art: Frontend Development**   
 [![Otros](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,angular,react,nextjs,&theme=light)](https://skillicons.dev)
 
-* **:desktop_computer: Backend Development**
+* **:desktop_computer: Backend Development**<br>
 [![Backend](https://skillicons.dev/icons?i=java,spring,nodejs,express,nest&theme=light)](https://skillicons.dev)
 
-* **:cloud: Cloud Platforms**
+* **:cloud: Cloud Platforms**<br>
 [![Herramientas](https://skillicons.dev/icons?i=azure,aws&,digital-ocean,&theme=light)](https://skillicons.dev)
 
-* **:rocket: DevOps**
+* **:rocket: DevOps**<br>
 [![DevOps](https://skillicons.dev/icons?i=docker,jenkins,githubactions,nginx&theme=light)](https://skillicons.dev)
 
-* **:floppy_disk: Databases**
+* **:floppy_disk: Databases**<br>
 [![Databases](https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=light)](https://skillicons.dev)
 
-* **:gear: Others**
+* **:gear: Others**<br>
 [![Otros](https://skillicons.dev/icons?i=git,github,postman,vscode,idea,linux&theme=light)](https://skillicons.dev)
 
 
