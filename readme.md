@@ -20,11 +20,11 @@ As a Full Stack Developer , I specialize in both frontend and backend technologi
 * **:desktop_computer: Backend Development**<br>
 [![Backend](https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=light)](https://skillicons.dev)
 
-<!--* **:cloud: Cloud Platforms**<br>
-[![Herramientas](https://skillicons.dev/icons?i=azure,aws&,digital-ocean,&theme=light)](https://skillicons.dev) -->
+* **:cloud: Cloud Platforms**<br>
+[![Herramientas](https://skillicons.dev/icons?i=azure,aws&,digital-ocean,&theme=light)](https://skillicons.dev)
 
-<!--* **:rocket: DevOps**<br>
-[![DevOps](https://skillicons.dev/icons?i=docker,jenkins,githubactions,nginx&theme=light)](https://skillicons.dev) -->
+* **:rocket: DevOps**<br>
+[![DevOps](https://skillicons.dev/icons?i=docker,jenkins,githubactions,nginx&theme=light)](https://skillicons.dev)
 
 * **:floppy_disk: Databases**<br>
 [![Databases](https://skillicons.dev/icons?i=postgresql,mongodb&theme=light)](https://skillicons.dev)
